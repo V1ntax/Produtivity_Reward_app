@@ -1,0 +1,13 @@
+achievement_name,points_required,tasks_required
+Beginner,50,10
+Novice,200,30
+Apprentice,500,75
+Intermediate,1000,150
+Skilled,2000,300
+Professional,4000,600
+Expert,8000,1000
+Master,15000,2000
+Grandmaster,30000,4000
+Legend,60000,8000
+Mythic,100000,12000
+Enlightened,150000,20000

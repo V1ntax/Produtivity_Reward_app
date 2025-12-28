@@ -1,0 +1,23 @@
+activity_name,activity_points,daily_task
+🇩🇪 German_studying_session,20,True
+🇩🇪 German_deep_session(2h+),50,True
+🇩🇪 German_speaking_session,20,True
+</> Coding_practice_session,20,True
+👩‍🏫 Coding_lecture_session,15,True
+🇬🇧 English_speaking_session,15,False
+🕮 Reading_session,10,False
+🎓 Uni_task_session,10,False
+🧘 Meditation_session,5,False
+🌳 Outdoor_walk_no_music,5,False
+🧽 Cleaning_the_room,5,False
+🍑 Abs_regular_workout,5,False
+🍑 Abs_intensive_workout,10,False
+💪🏻 Gym_workout,25,False
+⌨ Typing_practice_session,5,False
+🗣️Social_interaction_in_German/English,25,False
+💡 Brainstorming_session,10,False
+🌐 Information_search_session,10,False
+🦷✨ Evening_tooth_brushing,5,True
+💤 Early_sleep_before_23:00,5,True
+🚦 Traffic_rules_learning,10,False
+👨🏻‍💻 Coding_deep_session,50,True

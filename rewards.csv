@@ -1,0 +1,16 @@
+reward_name,reward_price,regular_reward
+🇩🇪 Watch_a_film_in_German,50,True
+🇬🇧 Watch_a_film_in_English,100,True
+Snack_+_short_film,100,True
+Youtube_video_30min,60,True
+Youtube_video_15min,30,True
+🇩🇪 Youtube_German_30min,10,True
+🇩🇪 Youtube_German_15min,5,True
+Ice_cream,70,True
+🍕 Pizza,250,False
+🌯 Döner,350,False
+Concert_ticket,1000,False
+🎧 Apple_Airpods_Max,3000,False
+Trip_New_Place,1500,False
+1H_Gaming,150,True
+E-Scooter,2500,False
