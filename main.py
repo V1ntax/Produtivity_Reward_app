@@ -1,3 +1,6 @@
+# This is the Console version of the App
+# is not the major version
+
 from os import name
 import pandas as pd
 
